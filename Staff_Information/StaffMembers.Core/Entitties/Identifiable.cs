@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StaffMembers.Core.Entitties
 {
-    class Identifiable
+    public class Identifiable
     {
         public Guid Id { get; }
 
